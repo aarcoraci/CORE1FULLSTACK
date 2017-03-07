@@ -1,0 +1,7 @@
+#:C:\Dev\Net\Samples\CoreFullStack\src\CoreFullStack.Domain\CoreFullStack.Domain.xproj
+#:C:\Dev\Net\Samples\CoreFullStack\src\CoreFullStack\CoreFullStack.xproj
+C:\Dev\Net\Samples\CoreFullStack\src\CoreFullStack\CoreFullStack.xproj|C:\Dev\Net\Samples\CoreFullStack\src\CoreFullStack.DataAccess\CoreFullStack.DataAccess.xproj
+C:\Dev\Net\Samples\CoreFullStack\src\CoreFullStack\CoreFullStack.xproj|C:\Dev\Net\Samples\CoreFullStack\src\CoreFullStack.Domain\CoreFullStack.Domain.xproj
+C:\Dev\Net\Samples\CoreFullStack\src\CoreFullStack.DataAccess\CoreFullStack.DataAccess.xproj|C:\Dev\Net\Samples\CoreFullStack\src\CoreFullStack.Domain\CoreFullStack.Domain.xproj
+#:C:\Dev\Net\Samples\CoreFullStack\src\CoreFullStack.DataAccess\CoreFullStack.DataAccess.xproj
+C:\Dev\Net\Samples\CoreFullStack\src\CoreFullStack.DataAccess\CoreFullStack.DataAccess.xproj|C:\Dev\Net\Samples\CoreFullStack\src\CoreFullStack.Domain\CoreFullStack.Domain.xproj
